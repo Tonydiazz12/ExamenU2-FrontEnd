@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/motocicletas",
+      "destination": "http://54.211.157.168:8000/api/motocicletas"
+    },
+    {
+      "source": "/api/automoviles",
+      "destination": "http://54.196.138.190:5000/api/automoviles"
+    }
+  ]
+}

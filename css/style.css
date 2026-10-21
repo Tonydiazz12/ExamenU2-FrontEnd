@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+.table th {
+    font-weight: 600;
+}
+.table td, .table th {
+    vertical-align: middle;
+    padding: 1rem;
+}
