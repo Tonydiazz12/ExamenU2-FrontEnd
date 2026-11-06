@@ -27,7 +27,7 @@ async function cargarAutomoviles() {
                     <td>${auto.id}</td>
                     <td class="fw-bold">${auto.marca}</td>
                     <td>${auto.modelo}</td>
-                    <td><span class="badge bg-secondary">${auto.anio}</span></td>
+                    <td><span class="badge bg-secondary">${auto.precio}</span></td>
                 </tr>
             `;
         });
@@ -61,7 +61,7 @@ async function cargarMotocicletas() {
                     <td>${moto.id}</td>
                     <td class="fw-bold">${moto.marca}</td>
                     <td>${moto.modelo}</td>
-                    <td><span class="badge bg-secondary">${moto.anio}</span></td>
+                    <td><span class="badge bg-secondary">${moto.precio}</span></td>
                 </tr>
             `;
         });
