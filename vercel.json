@@ -6,7 +6,7 @@
     },
     {
       "source": "/api/automoviles",
-      "destination": "http://44.199.243.201:5000/api/automoviles"
+      "destination": "http://52.5.36.64:5000/api/automoviles"
     }
   ]
 }
